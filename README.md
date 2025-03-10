@@ -4,3 +4,5 @@
 - Para abrir el documento realizar el siguiente comando
 
 ```npm.command```
+
+Actualización sistema
